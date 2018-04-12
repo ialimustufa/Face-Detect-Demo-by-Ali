@@ -33,3 +33,5 @@ while True:
 # When everything is done, release the capture
 video_capture.release()
 cv2.destroyAllWindows()
+
+#face detection using OpenCv
